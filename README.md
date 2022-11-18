@@ -1,3 +1,3 @@
-# Numeros-Cuanticos
+# TEORIA DE LOS NUMEROS CUANTICOS
 
 Qumicax2
